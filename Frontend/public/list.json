@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book 1",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/book-icon_1292944-11208.jpg?w=740"
+    },
+    {
+        "id": 2,
+        "name": "Story Book 2",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/book-icon_1292944-11208.jpg?w=740"
+    },
+    {
+        "id": 3,
+        "name": "Story Book 3",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 10,
+        "category": "paid",
+        "image": "https://img.freepik.com/premium-vector/book-icon_1292944-11208.jpg?w=740"
+    },
+    {
+        "id": 4,
+        "name": "Story Book 4",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/book-icon_1292944-11208.jpg?w=740"
+    },
+    {
+        "id": 5,
+        "name": "Story Book 5",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 15,
+        "category": "paid",
+        "image": "https://img.freepik.com/premium-vector/book-icon_1292944-11208.jpg?w=740"
+    },
+    {
+        "id": 6,
+        "name": "Story Book 6",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/book-icon_1292944-11208.jpg?w=740"
+    },
+    {
+        "id": 7,
+        "name": "Story Book 7",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 20,
+        "category": "paid",
+        "image": "https://img.freepik.com/premium-vector/book-icon_1292944-11208.jpg?w=740"
+    },
+    {
+        "id": 8,
+        "name": "Story Book 8",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/book-icon_1292944-11208.jpg?w=740"
+    },
+    {
+        "id": 9,
+        "name": "Story Book 9",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 5,
+        "category": "paid",
+        "image": "https://img.freepik.com/premium-vector/book-icon_1292944-11208.jpg?w=740"
+    },
+    {
+        "id": 10,
+        "name": "Story Book 10",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/book-icon_1292944-11208.jpg?w=740"
+    }
+]
